@@ -1,7 +1,7 @@
 # unit-test-smart-contracts
 
 Run this 
-go mod init github.com/partha-techsophy/solidityexample
+go mod init github.com/partha-techsophy/unit-test-smart-contracts
 
 
 ## Pre requisite
